@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <h3>!ATTENTION!</h3>
 
-Before we begin, if you haven't already created an Azure Account or dont know how to launch a Virtual Machine in Azure, please refer to my [tutorial](https://github.com/auryreyes/create-azure-virtual-machine).
+Before we begin, if you haven't already created an Azure Account or dont know how to launch a Virtual Machine in Azure, please refer to my [tutorial](https://github.com/amaurydreyes/creating-azure-virtual-machine).
 
 Create an Azure Virtual Machine Windows 10, 4 vCPUs
 - Name: vm-osticket
